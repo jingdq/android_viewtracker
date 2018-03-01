@@ -1,1 +1,2 @@
 include ':viewtracker'
+include ':Example:app'
